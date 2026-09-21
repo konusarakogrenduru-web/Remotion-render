@@ -1,0 +1,111 @@
+{
+  "slug": "wool-omnibus",
+  "title": "Wool Omnibus",
+  "author": "Hugh Howey",
+  "genre": "science-fiction",
+  "primaryKeyword": "Wool Omnibus Hugh Howey summary",
+  "titles": [
+    "Wool Omnibus by Hugh Howey: Full Summary & Analysis",
+    "Wool Omnibus Summary — The Genius Trap of the Silo Explained",
+    "Why Everyone Agrees to Die in Wool Omnibus (Hugh Howey)",
+    "Hugh Howey’s Wool Omnibus: 8 Hidden Ideas You Missed",
+    "Wool Omnibus Review & Breakdown — Dystopian Masterpiece"
+  ],
+  "description": "Which is exactly why every single person who swore they would never ever clean those sensors ended up scrubbing the glass — because hope is the regime's deadliest execution tool.\n\nIn this comprehensive deep dive into Wool Omnibus (Silo Series) by Hugh Howey, we deconstruct the brutal architecture of the 144-level underground cylinder, the fatal conspiracy of the cleaning ritual, and the true reason why survival in the Silo demands engineered ignorance.\n\nFrom Juliet Nichols' mechanical brilliance in the Down Deep to Bernard Holland's shadow IT regime and the shocking secret of the heat tape, we break down every philosophical tension, turning point, and institutional mechanism without fluff.\n\n⏱️ Chapters:\n0:00 The Deadliest Execution Tool: Why Hope Kills in the Silo\n2:07 144 Levels Deep: The Architecture of Class Separation\n5:15 The Spiral Staircase: Enforcing Physical Isolation\n9:25 Allison & The Forbidden Drive: Erasing Human History\n14:15 The Cleaning Ritual: Why Condemned Dissidents Wipe the Glass\n20:30 Juliet Nichols: Tangible Physics vs. Manufactured Illusions\n25:35 Bernard Holland & IT: The Shadow Theocracy of Silo 18\n29:55 The Heat Tape Scandal: Engineered State Murder\n33:45 Beyond the Hill: The Discovery of Neighboring Silos\n36:05 Silo 17 & Solo: The Catastrophic Price of Blind Rebellion\n38:30 Counterpoint: Mechanical Puzzle vs. Human Obedience\n40:55 Reframing: More Terrified of the Sky Than the Poison\n\n🔔 Subscribe for in-depth breakdowns of modern sci-fi and literature.\n\n#WoolOmnibus #HughHowey #Silo #BookSummary #ScienceFiction",
+  "tags": [
+    "Wool Omnibus summary",
+    "Wool Omnibus Hugh Howey",
+    "Hugh Howey",
+    "Wool Omnibus explained",
+    "Wool Omnibus analysis",
+    "Wool Omnibus book review",
+    "book summary",
+    "science-fiction books",
+    "science-fiction audiobook",
+    "book breakdown",
+    "books explained",
+    "self improvement",
+    "personal development",
+    "best science-fiction books",
+    "book club",
+    "nonfiction summary",
+    "Wool Omnibus",
+    "Wool Omnibus key ideas"
+  ],
+  "hashtags": [
+    "#WoolOmnibus",
+    "#BookSummary",
+    "#Science-fiction",
+    "#Books",
+    "#SelfImprovement"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "label": "The Deadliest Execution Tool: Why Hope Kills in the Silo"
+    },
+    {
+      "t": 127,
+      "label": "144 Levels Deep: The Architecture of Class Separation"
+    },
+    {
+      "t": 315,
+      "label": "The Spiral Staircase: Enforcing Physical Isolation"
+    },
+    {
+      "t": 565,
+      "label": "Allison & The Forbidden Drive: Erasing Human History"
+    },
+    {
+      "t": 855,
+      "label": "The Cleaning Ritual: Why Condemned Dissidents Wipe the Glass"
+    },
+    {
+      "t": 1230,
+      "label": "Juliet Nichols: Tangible Physics vs. Manufactured Illusions"
+    },
+    {
+      "t": 1535,
+      "label": "Bernard Holland & IT: The Shadow Theocracy of Silo 18"
+    },
+    {
+      "t": 1795,
+      "label": "The Heat Tape Scandal: Engineered State Murder"
+    },
+    {
+      "t": 2025,
+      "label": "Beyond the Hill: The Discovery of Neighboring Silos"
+    },
+    {
+      "t": 2165,
+      "label": "Silo 17 & Solo: The Catastrophic Price of Blind Rebellion"
+    },
+    {
+      "t": 2310,
+      "label": "Counterpoint: Mechanical Puzzle vs. Human Obedience"
+    },
+    {
+      "t": 2455,
+      "label": "Reframing: More Terrified of the Sky Than the Poison"
+    }
+  ],
+  "thumbnail": {
+    "hook": "THE CLEANING LIE",
+    "subject": "Juliet in post-apocalyptic sci-fi future standing in the foreground, facing a monumental grave behind them, low camera angle emphasizing authority and scale, the crowd or opposing force barely visible at the edges",
+    "layout": "portrait-right",
+    "image": "scenes/wool-omnibus/thumbnail-concept-power.png",
+    "cut": "scenes/wool-omnibus/thumbnail-concept-power-cut.png",
+    "style": "baroque-oil",
+    "concept": "power-00",
+    "angle": "power",
+    "fluxPrompt": "Set in post-apocalyptic sci-fi future, gritty industrial sci-fi aesthetic. Juliet in post-apocalyptic sci-fi future standing in the foreground, facing a monumental grave behind them, low camera angle emphasizing authority and scale, the crowd or opposing force barely visible at the edges. subject framed on right 60%, left 40% deep shadow for typography. low-angle medium-wide, hard golden rim light, deep shadow on left. deep charcoal background, deep crimson red accent glow, warm terracotta gold rim highlight. dramatic baroque oil painting, Caravaggio chiaroscuro, rich impasto texture, museum masterpiece, deep umbers and gold. eye-catching YouTube thumbnail composition, no watermark, no text, no words, no letters, no writing, no typography, no labels, no captions, no titles, gritty sci, gritty sci-fi atmosphere",
+    "criticScore": 58,
+    "_artDirected": true,
+    "reviewRequired": false,
+    "reviewReasons": []
+  },
+  "metaSource": "claude-hand-refined",
+  "needsClaudeRefine": false,
+  "generatedAt": "2026-09-21T06:22:35.674Z",
+  "refinedBy": "claude-hand-refined"
+}

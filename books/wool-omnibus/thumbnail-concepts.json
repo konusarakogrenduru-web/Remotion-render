@@ -1,0 +1,303 @@
+{
+  "slug": "wool-omnibus",
+  "title": "Wool Omnibus",
+  "author": "Hugh Howey",
+  "genre": "science-fiction",
+  "generatedAt": "2026-09-21T06:22:36.667Z",
+  "_artDirector": "thumbnail-art-director.js v2",
+  "channelContext": {
+    "priorThumbnails": 4
+  },
+  "concepts": [
+    {
+      "conceptId": "power-00",
+      "angle": "power",
+      "hook": "THE SETUP HOW \"WOOL OMNIBUS\"",
+      "evidence": "The Setup: How \"Wool Omnibus\" Works",
+      "thesis": "Who controls the city, the story, or the world? Authority vs. challenger.",
+      "visualSubject": "Juliet in post-apocalyptic sci-fi future standing in the foreground, facing a monumental grave behind them, low camera angle emphasizing authority and scale, the crowd or opposing force barely visible at the edges",
+      "iconicMotif": "grave",
+      "emotion": "confrontational curiosity",
+      "layout": "portrait-right",
+      "camera": "low-angle medium-wide",
+      "lighting": "hard golden rim light, deep shadow on left",
+      "style": "baroque-oil",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in post-apocalyptic sci-fi future, gritty industrial sci-fi aesthetic. Juliet in post-apocalyptic sci-fi future standing in the foreground, facing a monumental grave behind them, low camera angle emphasizing authority and scale, the crowd or opposing force barely visible at the edges. subject framed on right 60%, left 40% deep shadow for typography. low-angle medium-wide, hard golden rim light, deep shadow on left. deep charcoal background, deep crimson red accent glow, warm terracotta gold rim highlight. dramatic baroque oil painting, Caravaggio chiaroscuro, rich impasto texture, museum masterpiece, deep umbers and gold. eye-catching YouTube thumbnail composition, no watermark, no text, no words, no letters, no writing, no typography, no labels, no captions, no titles, gritty sci, gritty sci-fi atmosphere",
+      "imagePath": "scenes/wool-omnibus/thumbnail-concept-power.png",
+      "cutPath": "scenes/wool-omnibus/thumbnail-concept-power-cut.png",
+      "_needsCriticScore": false,
+      "_score": 58,
+      "_winner": true,
+      "policy": {
+        "ok": true,
+        "reasons": [],
+        "groundedWords": [
+          "setup",
+          "wool",
+          "omnibus"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 1,
+          "angleUses": 1,
+          "score": 0.8999999999999999
+        },
+        "evidence": "The Setup: How \"Wool Omnibus\" Works Which is exactly why every single person who swore they would never ever clean those sensors ended up scrubbing the glass. That's the core of Wool Omnibus by Hugh Howey — and it's not what you'd expect.\n\n"
+      },
+      "_needsEditorialRefine": false,
+      "_effectiveScore": 58,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.58,
+        "conceptClarity": 0.7,
+        "visualQuality": 0.395,
+        "semanticRelevance": 0.35,
+        "genericityPenalty": 0.6,
+        "mobileReadability": 0.282,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 0.5,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "mystery-04",
+      "angle": "mystery",
+      "hook": "THE HIDDEN TRUTH",
+      "evidence": "The Setup: How \"Wool Omnibus\" Works",
+      "thesis": "A provocative question or hidden truth that makes the viewer need to click.",
+      "visualSubject": "A symbolic post-apocalyptic sci-fi future visualization of \"Wool Omnibus\": grave depicted as an abstract metaphor — perhaps contained within a human silhouette, an iconic symbol in dramatic isolation, or a landscape of the mind. Minimal, graphic, high-concept. Deep black background with a single dramatic spotlight revealing the symbol",
+      "iconicMotif": "gift",
+      "emotion": "burning curiosity",
+      "layout": "text-poster",
+      "camera": "macro or abstract",
+      "lighting": "single beam spotlight on key object",
+      "style": "macro-minimal",
+      "negativeSpace": "center",
+      "fluxPrompt": "Set in post-apocalyptic sci-fi future, gritty industrial sci-fi aesthetic. A symbolic post-apocalyptic sci-fi future visualization of \"Wool Omnibus\": grave depicted as an abstract metaphor — perhaps contained within a human silhouette, an iconic symbol in dramatic isolation, or a landscape of the mind. Minimal, graphic, high-concept. Deep black background with a single dramatic spotlight revealing the symbol. graphic background, minimal subject, large hook text dominates. macro or abstract, single beam spotlight on key object. deep black, single warm terracotta gold beam, minimal palette. extreme close-up of a single symbolic object in a deep black void, one hard beam of light, minimalist gallery aesthetic, hyper-detailed texture. eye-catching YouTube thumbnail composition, no waterma, gritty sci-fi atmosphere",
+      "imagePath": "scenes/wool-omnibus/thumbnail-concept-mystery.png",
+      "cutPath": "scenes/wool-omnibus/thumbnail-concept-mystery-cut.png",
+      "_needsCriticScore": false,
+      "_score": 85,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "No meaningful hook word is evidenced by the title, description, or chapters."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 0,
+          "angleUses": 0,
+          "score": 1
+        },
+        "evidence": "The Setup: How \"Wool Omnibus\" Works Which is exactly why every single person who swore they would never ever clean those sensors ended up scrubbing the glass. That's the core of Wool Omnibus by Hugh Howey — and it's not what you'd expect.\n\n"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 47,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 1,
+        "conceptClarity": 1,
+        "visualQuality": 0.594,
+        "semanticRelevance": 0.75,
+        "genericityPenalty": 1,
+        "mobileReadability": 0.532,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "scene-02",
+      "angle": "scene",
+      "hook": "THE TURNING POINT",
+      "evidence": "The Setup: How \"Wool Omnibus\" Works",
+      "thesis": "The single most iconic or visually striking scene from the book.",
+      "visualSubject": "Inside a dark cave, set in post-apocalyptic sci-fi future, prisoners chained facing a stone wall, their shadows cast by a distant fire visible at the mouth of the cave, a single figure turning toward the blinding light outside — dramatic volumetric light rays piercing the darkness, ancient stone textures, cinematic wide establishing shot",
+      "iconicMotif": "law",
+      "emotion": "awe and unease",
+      "layout": "cinematic-bleed",
+      "camera": "wide establishing shot",
+      "lighting": "volumetric dramatic backlighting",
+      "style": "cinematic-35mm",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in post-apocalyptic sci-fi future, gritty industrial sci-fi aesthetic. Inside a dark cave, set in post-apocalyptic sci-fi future, prisoners chained facing a stone wall, their shadows cast by a distant fire visible at the mouth of the cave, a single figure turning toward the blinding light outside — dramatic volumetric light rays piercing the darkness, ancient stone textures, cinematic wide establishing shot. dark atmospheric space on left third, subject centered-right. wide establishing shot, volumetric dramatic backlighting. rich atmospheric tones, warm terracotta gold warm backlighting. cinematic film still, 35mm photography, photorealistic, sharp focus, 8k, award-winning cinematography, high contrast. eye-catching YouTube thumbnail composition, no watermark, no text, no words, , gritty sci-fi atmosphere",
+      "imagePath": "scenes/wool-omnibus/thumbnail-concept-scene.png",
+      "cutPath": "scenes/wool-omnibus/thumbnail-concept-scene-cut.png",
+      "_needsCriticScore": false,
+      "_score": 77,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise."
+        ],
+        "groundedWords": [
+          "turning"
+        ],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 2,
+          "angleUses": 0,
+          "score": 0.88
+        },
+        "evidence": "The Setup: How \"Wool Omnibus\" Works Which is exactly why every single person who swore they would never ever clean those sensors ended up scrubbing the glass. That's the core of Wool Omnibus by Hugh Howey — and it's not what you'd expect.\n\n"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 42,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.58,
+        "conceptClarity": 1,
+        "visualQuality": 0.551,
+        "semanticRelevance": 0.8999999999999999,
+        "genericityPenalty": 0.6,
+        "mobileReadability": 0.528,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "conflict-03",
+      "angle": "conflict",
+      "hook": "THE FATAL CHOICE",
+      "evidence": "The Setup: How \"Wool Omnibus\" Works",
+      "thesis": "Two opposing forces in direct visual tension: ideas, people, systems.",
+      "visualSubject": "Juliet in post-apocalyptic sci-fi future on the left in warm golden light facing Holland in post-apocalyptic sci-fi future on the right in cool shadow — two opposing philosophies, the tension between them visible in the post-apocalyptic sci-fi future environment",
+      "iconicMotif": "water",
+      "emotion": "tension and urgency",
+      "layout": "two-subject-vs",
+      "camera": "medium two-shot",
+      "lighting": "high-contrast cross-lighting, each side its own color temperature",
+      "style": "constructivist",
+      "negativeSpace": "center",
+      "fluxPrompt": "Set in post-apocalyptic sci-fi future, gritty industrial sci-fi aesthetic. Juliet in post-apocalyptic sci-fi future on the left in warm golden light facing Holland in post-apocalyptic sci-fi future on the right in cool shadow — two opposing philosophies, the tension between them visible in the post-apocalyptic sci-fi future environment. two figures in confrontation, text overlaid center. medium two-shot, high-contrast cross-lighting, each side its own color temperature. high contrast, deep crimson red warm side vs cool blue opposite. constructivist agitprop poster art, bold geometric photomontage, limited red black cream palette, sharp diagonals, vintage print texture. eye-catching YouTube thumbnail composition, no watermark, no text, no words, no letters, no writing, no typography, n, gritty sci-fi atmosphere",
+      "imagePath": "scenes/wool-omnibus/thumbnail-concept-conflict.png",
+      "cutPath": "scenes/wool-omnibus/thumbnail-concept-conflict-cut.png",
+      "_needsCriticScore": false,
+      "_score": 71,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "No meaningful hook word is evidenced by the title, description, or chapters."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": false,
+          "layoutUses": 0,
+          "angleUses": 0,
+          "score": 1
+        },
+        "evidence": "The Setup: How \"Wool Omnibus\" Works Which is exactly why every single person who swore they would never ever clean those sensors ended up scrubbing the glass. That's the core of Wool Omnibus by Hugh Howey — and it's not what you'd expect.\n\n"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 39,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.76,
+        "conceptClarity": 1,
+        "visualQuality": 0.541,
+        "semanticRelevance": 0.35,
+        "genericityPenalty": 0.8,
+        "mobileReadability": 0.329,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    },
+    {
+      "conceptId": "soul-01",
+      "angle": "soul",
+      "hook": "WHO CONTROLS YOU?",
+      "evidence": "The Setup: How \"Wool Omnibus\" Works",
+      "thesis": "The inner psychological conflict — what drives the character from inside.",
+      "visualSubject": "Juliet in post-apocalyptic sci-fi future, tight medium framing, their silhouette or form divided by split Rembrandt lighting, the protagonist's internal psychological conflict visible as an abstract overlay or background — reason on one side, appetite on the other",
+      "iconicMotif": "chains",
+      "emotion": "introspective dread",
+      "layout": "cinematic-bleed",
+      "camera": "tight medium shot",
+      "lighting": "split Rembrandt, cool shadow vs warm highlight",
+      "style": "ink-etching",
+      "negativeSpace": "left",
+      "fluxPrompt": "Set in post-apocalyptic sci-fi future, gritty industrial sci-fi aesthetic. Juliet in post-apocalyptic sci-fi future, tight medium framing, their silhouette or form divided by split Rembrandt lighting, the protagonist's internal psychological conflict visible as an abstract overlay or background — reason on one side, appetite on the other. dark atmospheric space on left third, subject centered-right. tight medium shot, split Rembrandt, cool shadow vs warm highlight. muted desaturated tones, deep crimson red emotional heat, cool shadow contrast. dark intricate ink etching, Gustave Doré style engraving, fine crosshatching, dramatic light and shadow, aged paper texture. eye-catching YouTube thumbnail composition, no watermark, no text, no words, no letters, no writing, no typography, no l, gritty sci-fi atmosphere",
+      "imagePath": "scenes/wool-omnibus/thumbnail-concept-soul.png",
+      "cutPath": "scenes/wool-omnibus/thumbnail-concept-soul-cut.png",
+      "_needsCriticScore": false,
+      "_score": 68,
+      "_winner": false,
+      "policy": {
+        "ok": false,
+        "reasons": [
+          "Generic hook; replace it with a book-specific promise.",
+          "Exact hook already appears elsewhere on the channel."
+        ],
+        "groundedWords": [],
+        "novelty": {
+          "exactHookRepeat": true,
+          "layoutUses": 2,
+          "angleUses": 2,
+          "score": 0
+        },
+        "evidence": "The Setup: How \"Wool Omnibus\" Works Which is exactly why every single person who swore they would never ever clean those sensors ended up scrubbing the glass. That's the core of Wool Omnibus by Hugh Howey — and it's not what you'd expect.\n\n"
+      },
+      "_needsEditorialRefine": true,
+      "_effectiveScore": 37,
+      "_imageExists": true,
+      "_hasPixelInspection": true,
+      "_scoreBreakdown": {
+        "bookSpecificity": 0.76,
+        "conceptClarity": 1,
+        "visualQuality": 0.429,
+        "semanticRelevance": 0.35,
+        "genericityPenalty": 0.8,
+        "mobileReadability": 0.233,
+        "composition": 1,
+        "negativeSpace": 1,
+        "hookQuality": 1,
+        "titleComplement": 1
+      }
+    }
+  ],
+  "winner": {
+    "conceptId": "power-00",
+    "angle": "power",
+    "hook": "THE SETUP HOW \"WOOL OMNIBUS\"",
+    "layout": "portrait-right",
+    "style": "baroque-oil",
+    "imagePath": "scenes/wool-omnibus/thumbnail-concept-power.png",
+    "cutPath": "scenes/wool-omnibus/thumbnail-concept-power-cut.png",
+    "score": 58,
+    "scoredAt": "2026-09-21T06:23:08.045Z",
+    "evaluationMode": "pixel-inspected",
+    "policy": {
+      "ok": true,
+      "reasons": [],
+      "groundedWords": [
+        "setup",
+        "wool",
+        "omnibus"
+      ],
+      "novelty": {
+        "exactHookRepeat": false,
+        "layoutUses": 1,
+        "angleUses": 1,
+        "score": 0.8999999999999999
+      },
+      "evidence": "The Setup: How \"Wool Omnibus\" Works Which is exactly why every single person who swore they would never ever clean those sensors ended up scrubbing the glass. That's the core of Wool Omnibus by Hugh Howey — and it's not what you'd expect.\n\n"
+    }
+  }
+}

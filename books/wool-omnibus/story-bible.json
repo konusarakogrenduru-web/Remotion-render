@@ -1,0 +1,181 @@
+{
+  "slug": "wool-omnibus",
+  "world": {
+    "era": "post-apocalyptic sci-fi future",
+    "worldId": "",
+    "approxYear": 2350,
+    "setting": "",
+    "register": "",
+    "forbid": [
+      "toga",
+      "ancientGreek",
+      "ancientTemple",
+      "chariot"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "wool-omnibus",
+    "worldId": "",
+    "allowedMotifs": [],
+    "forbiddenMotifs": [],
+    "allowedCharacters": [],
+    "allowedLocations": [],
+    "allowedProps": []
+  },
+  "cast": {
+    "juliet": {
+      "name": "Juliet",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 7
+    },
+    "holland": {
+      "name": "Holland",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 3
+    },
+    "bernard": {
+      "name": "Bernard",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "which": {
+      "name": "Which",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "nelson": {
+      "name": "Nelson",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    },
+    "wool": {
+      "name": "Wool",
+      "role": "",
+      "look": "",
+      "variant": {},
+      "mentions": 2
+    }
+  },
+  "places": {
+    "manuscript": {
+      "set": "manuscript",
+      "look": "",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "",
+      "mentions": 1
+    },
+    "shipDeck": {
+      "set": "shipDeck",
+      "look": "",
+      "mentions": 1
+    },
+    "cave": {
+      "set": "cave",
+      "look": "",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "grave",
+      "mentions": 20,
+      "why": ""
+    },
+    {
+      "concept": "chains",
+      "mentions": 13,
+      "why": ""
+    },
+    {
+      "concept": "law",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "water",
+      "mentions": 8,
+      "why": ""
+    },
+    {
+      "concept": "gift",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "codeWindow",
+      "mentions": 7,
+      "why": ""
+    },
+    {
+      "concept": "war",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "funnelMetrics",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "rocketLaunch",
+      "mentions": 6,
+      "why": ""
+    },
+    {
+      "concept": "phone",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "laptopMockup",
+      "mentions": 5,
+      "why": ""
+    },
+    {
+      "concept": "lightbulb",
+      "mentions": 5,
+      "why": ""
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 7,
+      "claim": ""
+    },
+    {
+      "act": "development",
+      "fromFrame": 16735,
+      "claim": ""
+    },
+    {
+      "act": "turn",
+      "fromFrame": 32513,
+      "claim": ""
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 46865,
+      "claim": ""
+    },
+    {
+      "act": "close",
+      "fromFrame": 61757,
+      "claim": ""
+    }
+  ],
+  "authored": false
+}
